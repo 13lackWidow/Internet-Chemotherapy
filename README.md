@@ -1,6 +1,8 @@
 # Internet-Chemotherapy
 Archive of https://0x00sec.org/t/internet-chemotherapy/4664
 
+DISCLAIMER: This is meant to be and shall only be used for archival and research purposes. What you do with this information has nothing to do with me.
+
 
 # Also archived on Ghostbin
 Router contents: https://ghostbin.com/paste/cjq86
