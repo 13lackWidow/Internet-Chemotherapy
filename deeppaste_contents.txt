@@ -1,0 +1,42 @@
+12/15/17
+
+A few alternative download locations for the telnet/http/soap plaintext payload module of 'BrickerBot':
+
+http://187.87.180.115/
+http://187.87.181.132/
+http://187.87.181.86/ 
+http://187.87.182.29/ 
+http://187.87.182.9/  
+http://187.87.183.135/
+http://187.87.183.197/
+http://187.87.183.39/ 
+http://187.87.185.134/
+http://187.87.185.32/
+http://187.87.188.139/
+http://187.87.191.18/
+http://190.108.40.131/
+http://190.108.40.152/ 
+http://190.108.40.158/
+http://190.108.40.216/
+http://190.108.40.226/
+http://190.108.40.63/  
+http://190.108.40.80/  
+http://190.108.40.90/  
+http://45.225.248.223/ 
+http://45.225.248.43/  
+http://45.225.249.150/ 
+http://45.225.249.34/  
+http://45.225.249.99/ 
+http://45.225.250.200/ 
+http://45.225.250.46/  
+http://45.225.250.58/  
+
+All hosting locations are temporary. My 'farewell note' will disappear as routers reboot and revert to their former state. I've now gotten my message out to most of the people that I wanted to reach.
+
+It looks like there was some confusion with my claim of having disrupted a Mirai event on Deutsche Telekom's network in 2016. I certainly didn't mean to imply that the Mirai infection itself had no effect on DT's modems. Depending on device performance the symptoms of an infected unit are often 'slow Internet' for the user and you can observe this dynamic for example with the dwindling number of Telefonica Argentina and Telecom Egypt users who are still infected with Mirai/Satori. I was simply implying that based on my experience ISPs take customer complaints of 'slow Internet' less seriously (they get these every day for various reasons) than a large number of complaints of 'no Internet'. Temporarily disabling the routing of vulnerable DT modems possibly escalated the issue with the provider and almost certainly reduced the number of vulnerable units that could be targeted by Mirai. The outages also seemed to have a psychological effect on the botnet operator himself. It's open for debate what effect (if any) the disruptive intervention had but I'd like to believe it played some role in preventing DT's network from being converted into a short-lived but highly devastating DDoS cannon. This event was only mentioned as it was the first big clash of its kind and most of the TR069/64 battles were fought at later dates and with less positive outcomes for the vulnerable ISPs.
+
+More generally you should understand that security researchers have a limited grasp of what's happening on networks outside their direct influence. For those who question my claims you should ask them how they could legally (or otherwise) know anything about what they're attempting to refute. Even the ISPs themselves have limited information about what's happening on their networks as they generally cannot legally wiretap their own customers. This is the reason for why the risks of new IoT botnets have been significantly overstated during 2017 and also the reason for why they were historically understated. It's the reason why my 13 month project largely flew under everybody's radar. This is not such a bad thing by the way. I am heartened whenever I see researchers misunderstanding or misreporting IoT incidents as this tells me they're likely to be law-abiding professionals. They could not possibly know the full facts unless they were part-time blackhats or greyhats and had access to a substantial amount of third party equipment around the world. For what it's worth all the research that I've read over the past 13 months about IoT malware lines up with what could've realistically been determined by someone who was operating ethically and legally. If I felt there was a reason to suspect any well-known IoT security researcher of being a part-time IoT blackhat I would've called them out a long time ago.
+
+As I've said before I'm only the messenger and this story isn't about me (or even what I did or didn't do). This story is about the genuinely terrifying state of affairs of the IoT industry and the ISP sector. We are living on borrowed time and the Internet is only one or two serious 0-days away from being severly disrupted. The sooner governments around the world step in to specify minimum safety and security requirements for IoT products the better. The cost of any large scale Internet disruption event will be astronomical to our highly connected societies and such an event could happen at any time.
+
+-j
